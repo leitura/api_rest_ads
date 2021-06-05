@@ -2,7 +2,7 @@
 
 ## Uma API REST simples para integrar com esta [aplicação TUI](https://github.com/leitura/client-api)
 
-[![Chat on Telegram](https://img.shields.io/badge/Telegram-ShuseiKagari-blue)](https://t.me/OMentalista)
+[![Chat on Telegram](https://img.shields.io/badge/Telegram-OMentalista-blue)](https://t.me/OMentalista)
 ### Pré-requisitos
 
 Você vai precisar ter instalado em sua máquina as seguintes ferramentas:
